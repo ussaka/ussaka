@@ -5,6 +5,6 @@
 
 ### :chart_with_upwards_trend: Stats
 <!--Stats Card-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussaka&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussaka&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--Top Languages Card-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ussaka&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ussaka&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
