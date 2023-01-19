@@ -5,6 +5,6 @@
 
 ### :chart_with_upwards_trend: Stats
 <!--Stats Card-->
-[![ussak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussaka&show_icons=true&theme=transparent&count_private=true)
+[![ussak's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ussaka&count_private=true&theme=transparent&showicons=true)]()
 <!--Top Languages Card-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ussaka&layout=compact&theme=transparent&count_private=true)
