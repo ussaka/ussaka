@@ -1,7 +1,6 @@
-<img align="left" width="250" src="https://github.com/ussaka/ussaka/blob/main/obi.gif">
 <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=ussaka&repo=ussaka&countColor=#b7c4a7">
+<img src="https://github.com/ussaka/ussaka/blob/main/obi.gif" width=250>
 
-<br><br><br><br><br>
 ## :wrench: Skills
 ### :thumbsup: Comfortable with
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
