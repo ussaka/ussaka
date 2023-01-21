@@ -30,3 +30,5 @@
 <!--Top Languages Card-->
 [![Top Langs dark mode](https://github-readme-stats-ussaka.vercel.app/api/top-langs/?username=ussaka&layout=compact&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ussaka/github-readme-stats#gh-dark-mode-only)
 [![Top Langs light mode](https://github-readme-stats-ussaka.vercel.app/api/top-langs/?username=ussaka&layout=compact&count_private=true&theme=default#gh-light-mode-only)](https://github.com/ussaka/github-readme-stats#gh-light-mode-only)
+<br>
+*Note that C percentage is a way of because many repositories have auto-generated .c decencies*
