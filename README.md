@@ -5,7 +5,7 @@
 
 ### :chart_with_upwards_trend: Stats
 <!--Stats Card-->
-[![ussaka's GitHub stats dark](https://github-readme-stats-ussaka.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/ussaka/github-readme-stats#gh-dark-mode-only)
+[![ussaka's GitHub stats dark](https://github-readme-stats-ussaka.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ussaka/github-readme-stats#gh-dark-mode-only)
 [![ussaka's GitHub stats light mode](https://github-readme-stats-ussaka.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/ussaka/github-readme-stats#gh-light-mode-only)
 
 <!--Top Languages Card-->
