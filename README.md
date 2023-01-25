@@ -24,11 +24,11 @@
 
 ## :chart_with_upwards_trend: Stats
 <!--Stats Card-->
-[![ussaka's GitHub stats dark](https://github-readme-stats-ussaka.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ussaka/github-readme-stats#gh-dark-mode-only)
-[![ussaka's GitHub stats light mode](https://github-readme-stats-ussaka.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/ussaka/github-readme-stats#gh-light-mode-only)
+[![ussaka's GitHub stats dark](https://github-readme-stats-navy-xi-33.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ussaka/github-readme-stats#gh-dark-mode-only)
+[![ussaka's GitHub stats light mode](https://github-readme-stats-navy-xi-33.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/ussaka/github-readme-stats#gh-light-mode-only)
 
 <!--Top Languages Card-->
-[![Top Langs dark mode](https://github-readme-stats-ussaka.vercel.app/api/top-langs/?username=ussaka&layout=compact&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ussaka/github-readme-stats#gh-dark-mode-only)
-[![Top Langs light mode](https://github-readme-stats-ussaka.vercel.app/api/top-langs/?username=ussaka&layout=compact&count_private=true&theme=default#gh-light-mode-only)](https://github.com/ussaka/github-readme-stats#gh-light-mode-only)
+[![Top Langs dark mode](https://github-readme-stats-navy-xi-33.vercel.app/api/top-langs/?username=ussaka&layout=compact&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ussaka/github-readme-stats#gh-dark-mode-only)
+[![Top Langs light mode](github-readme-stats-navy-xi-33.vercel.app/api/top-langs/?username=ussaka&layout=compact&count_private=true&theme=default#gh-light-mode-only)](https://github.com/ussaka/github-readme-stats#gh-light-mode-only)
 <br>
 *Note that C percentage is a way of because many repositories have auto-generated .c decencies*
