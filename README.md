@@ -1,4 +1,4 @@
-<img src="https://api.visitorbadge.io/api/VisitorHit?user=ussaka&repo=ussaka&countColor=#b7c4a7">
+<!---<img src="https://api.visitorbadge.io/api/VisitorHit?user=ussaka&repo=ussaka&countColor=#b7c4a7">-->
 <img src="https://github.com/ussaka/ussaka/blob/main/obi.gif" width=250>
 
 ## :wrench: Skills
