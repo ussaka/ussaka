@@ -21,10 +21,17 @@
 <!--Stats-->
 ## :chart_with_upwards_trend: Stats
 <!--Stats Card-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats-navy-xi-33.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=github_dark_dimmed" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats-navy-xi-33.vercel.app/api/wakatime?username=@ussaka&range=last_14_days&layout=compact&langs_count=6&card_width=50&theme=github_dark_dimmed" />
+</a>
+
 [![ussaka's GitHub stats](https://github-readme-stats-navy-xi-33.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=github_dark_dimmed)](https://github.com/ussaka/github-readme-stats)
 
 <!--WakaTime-->
-[![ussaka's WakaTime stats](https://github-readme-stats-navy-xi-33.vercel.app/api/wakatime?username=@ussaka&layout=compact&range=all_time&theme=github_dark_dimmed)](https://github.com/ussaka/github-readme-stats)
+[![ussaka's WakaTime stats](https://github-readme-stats-navy-xi-33.vercel.app/api/wakatime?username=@ussaka&range=last_14_days&layout=compact&langs_count=6&theme=github_dark_dimmed)](https://github.com/ussaka/github-readme-stats)
 
 <!--Theme reference
 [![ussaka's GitHub stats light](https://github-readme-stats-navy-xi-33.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/ussaka/github-readme-stats#gh-light-mode-only)
