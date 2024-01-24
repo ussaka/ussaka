@@ -1,3 +1,10 @@
+## 📌 Pinned
+<!--Pinned repos-->
+[![New-DMPS-software](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=New-DMPS-software&theme=github_dark_dimmed)](https://github.com/ussaka/New-DMPS-software)
+[![Smart-Alarm](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Smart-Alarm&theme=github_dark_dimmed)](https://github.com/ussaka/Smart-Alarm)
+[![Greenhouse-co2-controller](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Greenhouse-co2-controller&theme=github_dark_dimmed)](https://github.com/ussaka/Greenhouse-co2-controller)
+[![Ventilation-controller](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Ventilation-controller&theme=github_dark_dimmed)](https://github.com/ussaka/Ventilation-controller)
+
 <!--Skills-->
 ## :wrench: Skills
 ### :thumbsup: Comfortable with
@@ -14,25 +21,11 @@
 <!--Stats-->
 ## :chart_with_upwards_trend: Stats
 <!--Stats Card-->
-[![ussaka's GitHub stats dark](https://github-readme-stats-navy-xi-33.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ussaka/github-readme-stats#gh-dark-mode-only)
-[![ussaka's GitHub stats light](https://github-readme-stats-navy-xi-33.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/ussaka/github-readme-stats#gh-light-mode-only)
-
-<!--Top Languages Card-->
-[![Top Langs dark mode](https://github-readme-stats-navy-xi-33.vercel.app/api/top-langs/?username=ussaka&hide_progress=true&layout=compact&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ussaka/github-readme-stats#gh-dark-mode-only)
-[![Top Langs light mode](https://github-readme-stats-navy-xi-33.vercel.app/api/top-langs/?username=ussaka&hide_progress=true&layout=compact&count_private=true&theme=default#gh-light-mode-only)](https://github.com/ussaka/github-readme-stats#gh-light-mode-only)
+[![ussaka's GitHub stats](https://github-readme-stats-navy-xi-33.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=github_dark_dimmed)](https://github.com/ussaka/github-readme-stats)
 
 <!--WakaTime-->
-[![ussaka's WakaTime stats](https://github-readme-stats-navy-xi-33.vercel.app/api/wakatime?username=ussaka)](https://github.com/ussaka/github-readme-stats)
+[![ussaka's WakaTime stats](https://github-readme-stats-navy-xi-33.vercel.app/api/wakatime?username=@ussaka&layout=compact&range=all_time&theme=github_dark_dimmed)](https://github.com/ussaka/github-readme-stats)
 
-<!--Pinned repos dark mode
-[![New-DMPS-software_dark](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=New-DMPS-software&theme=nord#gh-dark-mode-only)](https://github.com/ussaka/New-DMPS-software#gh-dark-mode-only)
-[![Greenhouse-co2-controller_dark](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Greenhouse-co2-controller&theme=tokyonight#gh-dark-mode-only)](https://github.com/ussaka/Greenhouse-co2-controller#gh-dark-mode-only)
-[![Ventilation-controller_dark](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Ventilation-controller&theme=tokyonight#gh-dark-mode-only)](https://github.com/ussaka/Ventilation-controller#gh-dark-mode-only)
-[![Smart-Alarm_dark](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Smart-Alarm&theme=tokyonight#gh-dark-mode-only)](https://github.com/ussaka/Smart-Alarm#gh-dark-mode-only)
--->
-<!--Pinned repos light mode
-[![New-DMPS-software_light](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=New-DMPS-software&theme=default#gh-light-mode-only)](https://github.com/ussaka/New-DMPS-software#gh-light-mode-only)
-[![Greenhouse-co2-controller_light](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Greenhouse-co2-controller&theme=default#gh-light-mode-only)](https://github.com/ussaka/Greenhouse-co2-controller#gh-light-mode-only)
-[![Ventilation-controller_light](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Ventilation-controller&theme=default#gh-light-mode-only)](https://github.com/ussaka/Ventilation-controller#gh-light-mode-only)
-[![Smart-Alarm_light](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Smart-Alarm&theme=default#gh-light-mode-only)](https://github.com/ussaka/Smart-Alarm#gh-light-mode-only)
+<!--Theme reference
+[![ussaka's GitHub stats light](https://github-readme-stats-navy-xi-33.vercel.app/api?username=ussaka&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/ussaka/github-readme-stats#gh-light-mode-only)
 -->
