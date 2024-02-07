@@ -2,6 +2,7 @@
 <!--Pinned repos-->
 [![New-DMPS-software](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=New-DMPS-software&theme=github_dark_dimmed)](https://github.com/ussaka/New-DMPS-software)
 [![Smart-Alarm](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Smart-Alarm&theme=github_dark_dimmed)](https://github.com/ussaka/Smart-Alarm)
+[![Ajoittaja](https://github-readme-stats.vercel.app/api/pin/?username=Ajoittaja&repo=Ajoittaja&theme=github_dark_dimmed)](https://github.com/Ajoittaja/Ajoittaja)
 [![Greenhouse-co2-controller](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Greenhouse-co2-controller&theme=github_dark_dimmed)](https://github.com/ussaka/Greenhouse-co2-controller)
 [![Ventilation-controller](https://github-readme-stats.vercel.app/api/pin/?username=ussaka&repo=Ventilation-controller&theme=github_dark_dimmed)](https://github.com/ussaka/Ventilation-controller)
 
